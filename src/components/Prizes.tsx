@@ -40,20 +40,7 @@ const Prizes = () => {
             </div>
             <h3 className="text-2xl font-bold text-wonderbotz-dark-gray mb-4">₹150,000</h3>
             <p className="text-xl text-wonderbotz-gray mb-2">Total Prize Pool</p>
-            <ul className="text-left space-y-2 mt-6">
-              <li className="flex items-start staggered-item animate-slide-in opacity-0">
-                <span className="text-wonderbotz-green font-bold mr-2">•</span>
-                <span>First Place: ₹75,000</span>
-              </li>
-              <li className="flex items-start staggered-item animate-slide-in opacity-0">
-                <span className="text-wonderbotz-green font-bold mr-2">•</span>
-                <span>Second Place: ₹45,000</span>
-              </li>
-              <li className="flex items-start staggered-item animate-slide-in opacity-0">
-                <span className="text-wonderbotz-green font-bold mr-2">•</span>
-                <span>Third Place: ₹30,000</span>
-              </li>
-            </ul>
+            <p className="text-wonderbotz-gray mt-4">Exciting prizes await the top performing teams!</p>
           </div>
           
           <div className="card text-center animate-on-scroll opacity-0 transform translate-y-10 transition-all duration-500 hover:border-wonderbotz-green hover:border">
@@ -62,20 +49,7 @@ const Prizes = () => {
             </div>
             <h3 className="text-2xl font-bold text-wonderbotz-dark-gray mb-4">Expert Panel</h3>
             <p className="text-xl text-wonderbotz-gray mb-2">Judged by Senior Leadership Team</p>
-            <ul className="text-left space-y-2 mt-6">
-              <li className="flex items-start staggered-item animate-slide-in opacity-0">
-                <span className="text-wonderbotz-green font-bold mr-2">•</span>
-                <span>CTO & AI Engineering Leads</span>
-              </li>
-              <li className="flex items-start staggered-item animate-slide-in opacity-0">
-                <span className="text-wonderbotz-green font-bold mr-2">•</span>
-                <span>Client Solutions Directors</span>
-              </li>
-              <li className="flex items-start staggered-item animate-slide-in opacity-0">
-                <span className="text-wonderbotz-green font-bold mr-2">•</span>
-                <span>Innovation Team Leadership</span>
-              </li>
-            </ul>
+            <p className="text-wonderbotz-gray mt-4">Get feedback from industry experts and WonderBotz leadership.</p>
           </div>
         </div>
       </div>
