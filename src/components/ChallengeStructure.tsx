@@ -1,6 +1,6 @@
 
 import React, { useEffect } from 'react';
-import { Badge } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
 import { Star } from 'lucide-react';
 
 const ChallengeStructure = () => {
