@@ -69,7 +69,7 @@ const WhyVibeAThon = () => {
           <div className="reveal-on-scroll">
             <h3 className="text-xl font-semibold text-wonderbotz-dark-gray mb-4 flex items-center">
               <div className="icon-circle mr-3">
-                <span className="font-bold">R</span>
+                <span className="font-bold">O</span>
               </div>
               Outcomes
             </h3>
@@ -81,10 +81,6 @@ const WhyVibeAThon = () => {
               <li className="flex items-start reveal-on-scroll">
                 <span className="text-wonderbotz-green font-bold mr-2">•</span>
                 <span>New insights into AI-driven process automation</span>
-              </li>
-              <li className="flex items-start reveal-on-scroll">
-                <span className="text-wonderbotz-green font-bold mr-2">•</span>
-                <span>Networking opportunities with industry professionals</span>
               </li>
               <li className="flex items-start reveal-on-scroll">
                 <span className="text-wonderbotz-green font-bold mr-2">•</span>
