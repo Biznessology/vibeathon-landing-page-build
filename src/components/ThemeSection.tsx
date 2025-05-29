@@ -97,13 +97,6 @@ const ThemeSection = () => {
               These agents are capable of planning, reasoning, and executing end-to-end business tasks with little or no human involvement. 
               The result: smarter, self-driving processes that continuously improve, learn, and optimize on their own.
             </p>
-            
-            <div className="bg-wonderbotz-green/20 rounded-lg p-6 text-center">
-              <p className="text-xl font-semibold">
-                <strong>In short:</strong><br />
-                Agentic Automation = Self-directed AI agents delivering real business outcomes, not just automating steps.
-              </p>
-            </div>
           </div>
         </div>
 
@@ -132,8 +125,11 @@ const ThemeSection = () => {
             <p className="text-lg mb-4">
               Build something that showcases true "agentic" autonomy. If you can imagine an AI system doing a job end-to-end without waiting for instructions—<strong>that's an agentic use case!</strong>
             </p>
-            <p className="text-2xl font-bold text-wonderbotz-green animate-pulse">
+            <p className="text-2xl font-bold text-wonderbotz-green mb-4 animate-pulse">
               Ready to hack the future of automation?
+            </p>
+            <p className="text-lg font-semibold text-wonderbotz-white">
+              Register now and be part of the innovation!
             </p>
           </div>
         </div>

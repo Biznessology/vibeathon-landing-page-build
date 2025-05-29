@@ -4,7 +4,6 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import WhyVibeAThon from '@/components/WhyVibeAThon';
 import ThemeSection from '@/components/ThemeSection';
-import ChallengeStructure from '@/components/ChallengeStructure';
 import Timeline from '@/components/Timeline';
 import Agenda from '@/components/Agenda';
 import Prizes from '@/components/Prizes';
@@ -43,7 +42,6 @@ const Index = () => {
         <Hero />
         <WhyVibeAThon />
         <ThemeSection />
-        <ChallengeStructure />
         <Timeline />
         <Agenda />
         <Prizes />
