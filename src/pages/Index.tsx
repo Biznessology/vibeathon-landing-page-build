@@ -7,7 +7,9 @@ import ThemeSection from '@/components/ThemeSection';
 import Timeline from '@/components/Timeline';
 import Agenda from '@/components/Agenda';
 import Prizes from '@/components/Prizes';
+import Rules from '@/components/Rules';
 import RegistrationForm from '@/components/RegistrationForm';
+import FAQ from '@/components/FAQ';
 import Footer from '@/components/Footer';
 
 // This component handles intersection observer functionality
@@ -45,7 +47,9 @@ const Index = () => {
         <Timeline />
         <Agenda />
         <Prizes />
+        <Rules />
         <RegistrationForm />
+        <FAQ />
       </main>
       <Footer />
     </div>
