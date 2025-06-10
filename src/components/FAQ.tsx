@@ -29,22 +29,6 @@ const FAQ = () => {
 
   const faqs = [
     {
-      question: "What is Vibe-A-Thon and what makes it special?",
-      answer: "Vibe-A-Thon is WonderBotz's internal hackathon focused on Agentic Automation - the next evolution of AI-driven automation where intelligent agents can understand goals, make decisions, and take autonomous actions across business processes."
-    },
-    {
-      question: "What is the theme of this hackathon?",
-      answer: "The theme is 'Agentic Automation' - building autonomous AI agents that can handle end-to-end business tasks with minimal human intervention, going beyond traditional RPA to create self-directed problem solvers."
-    },
-    {
-      question: "Who can participate in Vibe-A-Thon?",
-      answer: "This is an internal WonderBotz hackathon open to all employees. Whether you're a developer, designer, business analyst, or from any other department - if you have innovative ideas for agentic automation, you're welcome to participate!"
-    },
-    {
-      question: "What is the team size requirement?",
-      answer: "Teams must consist of 2-4 exceptional individuals. This size ensures diverse skill sets while maintaining effective collaboration and communication throughout the hackathon."
-    },
-    {
       question: "How long is the hackathon?",
       answer: "The duration and specific timeline will be announced during registration. Check the Timeline section for detailed schedule information including key milestones and submission deadlines."
     },

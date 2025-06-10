@@ -19,9 +19,13 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li><a href="#why" className="text-sm hover:text-wonderbotz-red transition-colors">Why Vibe-A-Thon?</a></li>
-              <li><a href="#theme" className="text-sm hover:text-wonderbotz-red transition-colors">Theme: APA</a></li>
-              <li><a href="#challenge" className="text-sm hover:text-wonderbotz-red transition-colors">Challenge Structure</a></li>
+              <li><a href="#theme" className="text-sm hover:text-wonderbotz-red transition-colors">Theme</a></li>
+              <li><a href="#timeline" className="text-sm hover:text-wonderbotz-red transition-colors">Timeline</a></li>
+              <li><a href="#agenda" className="text-sm hover:text-wonderbotz-red transition-colors">Agenda</a></li>
+              <li><a href="#prizes" className="text-sm hover:text-wonderbotz-red transition-colors">Prizes</a></li>
+              <li><a href="#rules" className="text-sm hover:text-wonderbotz-red transition-colors">Rules</a></li>
               <li><a href="#registration" className="text-sm hover:text-wonderbotz-red transition-colors">Registration</a></li>
+              <li><a href="#faq" className="text-sm hover:text-wonderbotz-red transition-colors">FAQ</a></li>
             </ul>
           </div>
           
